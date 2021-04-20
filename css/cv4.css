@@ -1,0 +1,61 @@
+#selfie {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(43, 43, 46);
+    border-width: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(0, 110, 253, 0.87);
+}
+
+h1 {
+    color: blue;
+}
+
+h3 {
+    color: red;
+}
+
+a:hover {
+    color: orange;
+}
+
+.intro {
+    color: green;
+}
+
+p {
+    color: purple;
+}
+
+.lista {
+    color: cyan;
+}
+
+#estudios:hover {
+    color: green;
+}
+
+#hobbies:hover {
+    color: gold;
+}
+
+.padding {
+    display: inline;
+}
+
+div {
+    width: 500px;
+    margin: 20px;
+}
+#exp {
+    margin-left: 429px;
+}
